@@ -1,0 +1,4 @@
+include ':libretrofit'
+include ':libcommon'
+include ':app'
+rootProject.name = "MvvmDemo"
